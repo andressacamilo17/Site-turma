@@ -23,3 +23,29 @@ header{
 
 
     }
+    .Escola-imagem{
+        width: 25%;
+    }
+    .Escola{
+        background-image:( #383D58, #4EBFE9 );
+        color: white;
+        display:  flex;
+        justify-content: center;
+        align-items: center;
+        padding:  24px 0;
+    }
+    .Escola-div-conteúdo{
+
+    }
+    .Escola-titulo{
+        padding: 24px 0;
+    }
+    .Escola-texto-um{
+        padding: 24px 0;
+        font-size: 24px ;
+    }
+    .Escola-texto-dois{
+        padding: 24px 0;
+        font-size: 24px ;
+    }
+
