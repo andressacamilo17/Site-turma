@@ -27,16 +27,18 @@ header{
         width: 25%;
     }
     .Escola{
-        background-image:( #383D58, #4EBFE9 );
+        background-image: linear-gradient(#383D58,#4EBFE9);
         color: white;
         display:  flex;
         justify-content: center;
         align-items: center;
         padding:  24px 0;
     }
-    .Escola-div-conteúdo{
-
+    .Escola-div-conteudo{
+width: 35;
     }
+
+
     .Escola-titulo{
         padding: 24px 0;
     }
